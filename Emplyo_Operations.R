@@ -4,5 +4,7 @@ job_title <- c("Professional", "Programmer", "Management", "Clerical", "Develope
 employee <- data.frame(id, name, job_title)
 print(employee)
 
-separate(employee, name,into = c("first_name", "last_name"), sep = "")
+separate(employee, name, into = c("first_name", "last_name"), sep = '')
+
+
 
