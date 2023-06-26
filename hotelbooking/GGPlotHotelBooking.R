@@ -1,4 +1,4 @@
-hotel_bookings <- read.csv("C:/Users/salih/Masaüstü/Rfiels/hotelbooking/GL0bk8O2Sja9G5PDtko2uQ_31e445d7ca64417eb45aeaa08ec90bf1_hotel_bookings.csv")
+hotel_bookings <- read.csv("/Rfiels/hotelbooking/GL0bk8O2Sja9G5PDtko2uQ_31e445d7ca64417eb45aeaa08ec90bf1_hotel_bookings.csv")
 
 head(hotel_bookings)
 
